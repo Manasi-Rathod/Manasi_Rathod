@@ -3,127 +3,139 @@
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with me  
 <p align="center">
-  <a href="https://twitter.com/" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://linkedin.com/in/manasirathod09" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://github.com/Manasi-Rathod" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+  <a href="https://linkedin.com/in/manasirathod09" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Manasi-Rathod" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:manasirathod94@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+---
+
+## 🙋‍♀️ About Me  
+- 🎓 **B.E – AI & ML | PES Modern College of Engineering**  
+- 🤖 Passionate about **Machine Learning, Deep Learning, and Generative AI**  
+- 🌱 Currently learning **Advanced LLMs, RAG Systems, and Multimodal AI**  
+- 💼 Actively looking for AI/ML roles – **Hire Me!**  
+- 🔍 Interested in **AI for Healthcare, CV, NLP, and Voice AI**  
+
+---
+
+## 🧠 Skills  
 <p align="center">
-✨ I am actively looking for opportunities — <a href="mailto:manasirathod94@gmail.com"><b>Hire Me</b></a> ✨
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,nodejs,express,flask,fastapi,react,mysql,postgres,mongodb,git,github,docker,tensorflow,pytorch,sklearn,opencv,postman,jira" />
 </p>
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Projects
 
-### **Core Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=c"/> 
-  <img src="https://skillicons.dev/icons?i=cpp"/> 
-  <img src="https://skillicons.dev/icons?i=python"/> 
-  <img src="https://skillicons.dev/icons?i=java"/> 
-  <img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech Stack</th>
+    <th>View Code</th>
+  </tr>
 
-### **AI / ML**
-<p>
-  <img src="https://skillicons.dev/icons?i=sklearn"/> 
-  <img src="https://skillicons.dev/icons?i=pytorch"/> 
-  <img src="https://skillicons.dev/icons?i=tensorflow"/> 
-  <img src="https://skillicons.dev/icons?i=opencv"/>
-</p>
+  <tr>
+    <td><strong>🎬 StoryTrails – AI Text-to-Video Generator</strong></td>
+    <td>
+      Converts written stories into animated videos using multimodal AI.<br>
+      LLM-based scene extraction + diffusion video generation.
+    </td>
+    <td>Python, Llama 3, SDXL, SVD, XTTS, FFmpeg, Streamlit</td>
+    <td><a href="#" target="_blank">🔗 Link</a></td>
+  </tr>
 
-### **Generative AI / LLMs**
-🔹 LangChain • LlamaIndex • RAG  
-🔹 Azure OpenAI • OpenAI API • HuggingFace  
-🔹 Embeddings • Prompt Engineering
+  <tr>
+    <td><strong>⚖️ Smart Legal Assistant – RAG Chatbot</strong></td>
+    <td>
+      AI assistant for legal search, summarization, and context-aware Q&A.<br>
+      Implements RAG + semantic search.
+    </td>
+    <td>LangChain, OpenAI API, FAISS, Flask</td>
+    <td><a href="#" target="_blank">🔗 Link</a></td>
+  </tr>
 
-### **Frontend / Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=html"/> 
-  <img src="https://skillicons.dev/icons?i=css"/> 
-  <img src="https://skillicons.dev/icons?i=javascript"/> 
-  <img src="https://skillicons.dev/icons?i=nodejs"/> 
-  <img src="https://skillicons.dev/icons?i=express"/> 
-  <img src="https://skillicons.dev/icons?i=fastapi"/> 
-  <img src="https://skillicons.dev/icons?i=flask"/>
-</p>
+  <tr>
+    <td><strong>🌱 Plant Disease Detection – CNN Model</strong></td>
+    <td>
+      Deep Learning model classifying leaf diseases.<br>
+      Includes augmentation + real-time Flask interface.
+    </td>
+    <td>TensorFlow, CNN, Flask</td>
+    <td><a href="#" target="_blank">🔗 Link</a></td>
+  </tr>
 
-### **Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker"/> 
-  <img src="https://skillicons.dev/icons?i=postman"/> 
-  <img src="https://skillicons.dev/icons?i=git"/> 
-  <img src="https://skillicons.dev/icons?i=github"/> 
-  <img src="https://skillicons.dev/icons?i=jira"/>
-</p>
+  <tr>
+    <td><strong>📝 Text Summarization Tool – NLP Pipeline</strong></td>
+    <td>
+      Hybrid extractive + abstractive text summarization.<br>
+      Transformer-based semantic representation.
+    </td>
+    <td>NLTK, spaCy, BERT, T5</td>
+    <td><a href="#" target="_blank">🔗 Link</a></td>
+  </tr>
 
----
+  <tr>
+    <td><strong>📊 Student Performance Evaluation System</strong></td>
+    <td>
+      Predicts academic outcomes using ML models.<br>
+      Includes dashboard for insights and visualization.
+    </td>
+    <td>Flask, Pandas, ML Models</td>
+    <td><a href="#" target="_blank">🔗 Link</a></td>
+  </tr>
 
-# 🚀 Projects I Built
+  <tr>
+    <td><strong>🏦 Bank Marketing Campaign Classifier</strong></td>
+    <td>
+      ML classification model predicting campaign success.<br>
+      Automated EDA + reporting pipeline.
+    </td>
+    <td>Scikit-learn</td>
+    <td><a href="#" target="_blank">🔗 Link</a></td>
+  </tr>
 
-### 🎬 StoryTrails – AI Text-to-Video Generator  
-**Tech:** Python • Llama 3 • SDXL • XTTS • Streamlit  
-[🔗 View Code](https://github.com/Manasi-Rathod/storytrails-ai-video-generator)
-
----
-
-### ⚖️ Smart Legal Assistant – RAG Chatbot  
-**Tech:** LangChain • OpenAI API • FAISS • Flask  
-[🔗 View Code](https://github.com/Manasi-Rathod/legal-rag-chatbot)
-
----
-
-### 🌱 Plant Disease Detection – CNN Model  
-**Tech:** TensorFlow • CNN • Flask  
-[🔗 View Code](https://github.com/Manasi-Rathod/plant-disease-cnn)
-
----
-
-### 📝 Text Summarization Tool – NLP Pipeline  
-**Tech:** BERT • T5 • spaCy • NLTK  
-[🔗 View Code](https://github.com/Manasi-Rathod/text-summarizer-nlp)
-
----
-
-### 📊 Student Performance Evaluation System  
-**Tech:** Flask • Pandas • ML Models  
-[🔗 View Code](https://github.com/Manasi-Rathod/student-performance-ml)
-
----
-
-### 🏦 Bank Marketing Campaign Classifier  
-**Tech:** Scikit-learn  
-[🔗 View Code](https://github.com/Manasi-Rathod/bank-marketing-ml)
+</table>
 
 
 
-# 🏅 Achievements
-- DRDO Project Intern  
-- ML Intern at Symbiosis Institute of Geoinformatics  
-- 92% accuracy on clinical prediction model  
-- Class Representative for 4 years  
+
+## 🏆 Achievements  
+- ML Intern – **Symbiosis Institute of Geoinformatics**  
+- Project Intern – **DRDO R&DE(E)**  
+- Built ML pipelines using **MIMIC-IV clinical data**  
+- 92% accuracy using **XGBoost + RF**  
 - Google Cloud GenAI Arcade Certified  
 - Oracle OCI Generative AI Professional  
-- Multiple AI/ML, LLM & Deep Learning Projects  
 
 ---
 
-# 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manasi-rathod&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasi-rathod&theme=radical" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=manasi-rathod&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=manasi-rathod&theme=radical" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasi-rathod&layout=compact&theme=radical" />
 </p>
 
 ---
 
-# ✍️ Random Developer Quote  
+## ✍️ Random Dev Quote  
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
 
-<h3 align="center">💙 Happy Coding!</h3>
+<h3 align="center">💙 Thanks for visiting! Happy Coding!</h3>
