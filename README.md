@@ -60,7 +60,7 @@
   </tr>
 
   <tr>
-    <td><strong>🌟 CareAssist — Post-Discharge Medical AI Assistant</strong></td>
+    <td><strong>🌟 CareAssist — PostDischarge Medical AI Assistant</strong></td>
     <td>
       AI-powered post-discharge assistant for patients combining discharge summaries, nephrology reference PDFs, RAG retrieval, and a multi-agent workflow (Receptionist + Clinical Agent). Includes FAISS vector store, DuckDuckGo web fallback, urgent symptom detection, detailed logging, and a Streamlit UI.
     </td>
