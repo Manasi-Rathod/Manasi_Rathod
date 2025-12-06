@@ -56,7 +56,7 @@
       LLM-based scene extraction + diffusion video generation.
     </td>
     <td>Python, Llama 3, SDXL, SVD, XTTS, FFmpeg, Streamlit</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="https://github.com/Manasi-Rathod/StoryTrails" target="_blank">🔗 GitHub</a></td>
   </tr>
 
   <tr>
